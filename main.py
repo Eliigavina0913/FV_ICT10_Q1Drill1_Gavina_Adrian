@@ -17,3 +17,7 @@ def compute_result(event=None):
 
 
 #I used chatgpt and co pilot to fix the problems in my code
+
+
+
+
